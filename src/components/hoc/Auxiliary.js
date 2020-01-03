@@ -1,3 +1,3 @@
-const auxiliary = (props) => {};
+const auxiliary = (props) => props.children;
 
-export default aux;
+export default auxiliary;
